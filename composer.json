@@ -1,5 +1,5 @@
 {
-    "name": "lpilp/guomi",
+    "name": "PeteHoo/guomi",
     "description": "国密sm2",
     "type": "library",
     "license": "MIT",
@@ -21,9 +21,13 @@
         
     },
     "repositories": {
-        "packagist": {
+          {
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/PeteHoo/guomi.git"
         }
     }
     
