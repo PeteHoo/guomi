@@ -20,8 +20,8 @@
         "files": ["src/overwrite.php"]
         
     },
-    "repositories": {
-          {
+    "repositories": [
+        {
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
         },
@@ -29,6 +29,6 @@
             "type": "vcs",
             "url": "https://github.com/PeteHoo/guomi.git"
         }
-    }
+    ]
     
 }
