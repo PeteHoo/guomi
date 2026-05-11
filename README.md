@@ -7,6 +7,6 @@
 ## 安装
 
 ```
-composer require PeteHoo/guomi
+composer require pete-hoo/guomi
 ```
 > 请确保你升级到 `composer 2` 及以上版本。`PHP >=7.2`,打开gmp组件支持。
