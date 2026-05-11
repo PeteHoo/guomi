@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "recent"
+            "name": "PeteHoo"
         }
     ],
     "minimum-stability": "stable",
@@ -18,17 +18,5 @@
             "Rtgm\\": "src"
         },
         "files": ["src/overwrite.php"]
-        
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://mirrors.aliyun.com/composer/"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/PeteHoo/guomi.git"
-        }
-    ]
-    
+    }
 }
